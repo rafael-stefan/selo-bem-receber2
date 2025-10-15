@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Empresas Certificadas - Selo Bem Receber</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navegação -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-wrapper">
+                <div class="logo">
+                    <span class="logo-icon">✓</span>
+                    <span class="logo-text">Selo Bem Receber</span>
+                </div>
+                <ul class="nav-menu" id="navMenu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="empresas.html" class="active">Empresas</a></li>
+                    <li><a href="curso.html">Como Funciona</a></li>
+                </ul>
+                <div class="hamburger" id="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Header da Página -->
+    <section class="page-header">
+        <div class="container">
+            <h1>Empresas Certificadas</h1>
+            <p>Conheça as empresas que possuem o Selo Bem Receber</p>
+        </div>
+    </section>
+
+    <!-- Filtros e Ordenação -->
+    <section class="filters-section">
+        <div class="container">
+            <div class="filters-wrapper">
+                <div class="search-box">
+                    <input type="text" id="searchInput" placeholder="Buscar empresa...">
+                    <span class="search-icon">🔍</span>
+                </div>
+                <div class="filter-controls">
+                    <div class="filter-group">
+                        <label for="sortSelect">Ordenar por:</label>
+                        <select id="sortSelect">
+                            <option value="name-asc">Nome (A-Z)</option>
+                            <option value="name-desc">Nome (Z-A)</option>
+                            <option value="sector">Setor</option>
+                            <option value="certified-date">Data de Certificação</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="sectorFilter">Filtrar por setor:</label>
+                        <select id="sectorFilter">
+                            <option value="">Todos os setores</option>
+                            <option value="Varejo">Varejo</option>
+                            <option value="Alimentação">Alimentação</option>
+                            <option value="Saúde">Saúde</option>
+                            <option value="Educação">Educação</option>
+                            <option value="Serviços">Serviços</option>
+                            <option value="Tecnologia">Tecnologia</option>
+                            <option value="Beleza">Beleza</option>
+                            <option value="Turismo">Turismo</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Lista de Empresas -->
+    <section class="companies-section">
+        <div class="container">
+            <div id="companiesGrid" class="companies-grid">
+                <!-- Empresas serão inseridas aqui via JavaScript -->
+            </div>
+            <div id="noResults" class="no-results" style="display: none;">
+                <p>Nenhuma empresa encontrada com os filtros selecionados.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <div class="logo">
+                        <span class="logo-icon">✓</span>
+                        <span class="logo-text">Selo Bem Receber</span>
+                    </div>
+                    <p>Reconhecendo empresas que valorizam o atendimento de excelência</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Links Rápidos</h4>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="empresas.html">Empresas</a></li>
+                        <li><a href="curso.html">Como Funciona</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Contato</h4>
+                    <p>Email: contato@selobemreceber.com.br</p>
+                    <p>Telefone: (11) 1234-5678</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Selo Bem Receber. Todos os direitos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

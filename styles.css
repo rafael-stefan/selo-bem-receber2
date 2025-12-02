@@ -64,7 +64,7 @@ body {
 .logo-text {
     font-size: 1.2rem;
     font-weight: bold;
-    color: #333;
+    color: #ffffff;
 }
 
 .logo-icon {
@@ -855,6 +855,25 @@ body {
 
 .footer-section a:hover {
     color: var(--primary-orange);
+}
+
+.footer-logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 1rem;
+}
+
+.footer-logo-img {
+    height: 50px;
+    width: auto;
+    object-fit: contain;
+}
+
+.footer-logo-text {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #fff;
 }
 
 .footer-bottom {

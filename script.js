@@ -18,9 +18,9 @@ if (hamburger && navMenu) {
 // Dados das Empresas
 const empresas = [
     {
-        nome: "TechSolutions",
-        setor: "Tecnologia",
-        cidade: "São Paulo",
+        nome: "Rancho das videiras",
+        setor: "Turismo",
+        cidade: "Araçatuba",
         dataCertificacao: "2024-01-15",
         logoImg: "img-icon/1 - Rancho das videiras.png"
     },

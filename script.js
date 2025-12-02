@@ -22,126 +22,126 @@ const empresas = [
         setor: "Tecnologia",
         cidade: "São Paulo",
         dataCertificacao: "2024-01-15",
-        logo: "TS"
+        logoImg: "img-icon/1 - Rancho das videiras.png"
     },
     {
-        nome: "Restaurante Sabor & Arte",
-        setor: "Alimentação",
-        cidade: "Rio de Janeiro",
-        dataCertificacao: "2024-02-20",
-        logo: "SA"
-    },
-    {
-        nome: "Clínica Bem Estar",
-        setor: "Saúde",
-        cidade: "Belo Horizonte",
-        dataCertificacao: "2024-01-10",
-        logo: "BE"
-    },
-    {
-        nome: "Moda & Estilo",
-        setor: "Varejo",
-        cidade: "São Paulo",
-        dataCertificacao: "2024-03-05",
-        logo: "ME"
-    },
-    {
-        nome: "Colégio Excelência",
-        setor: "Educação",
-        cidade: "Brasília",
-        dataCertificacao: "2024-02-28",
-        logo: "CE"
-    },
-    {
-        nome: "Salão Beleza Pura",
-        setor: "Beleza",
-        cidade: "Curitiba",
-        dataCertificacao: "2024-03-10",
-        logo: "BP"
-    },
-    {
-        nome: "Viagens & Aventura",
+        nome: "Recanto do Cedro",
         setor: "Turismo",
-        cidade: "Florianópolis",
-        dataCertificacao: "2024-01-25",
-        logo: "VA"
+        cidade: "Birigui",
+        dataCertificacao: "2025-09-18",
+        logoImg: "img-icon/2 - Recanto do Cedro.png"
     },
     {
-        nome: "Consultoria Empresarial Pro",
-        setor: "Serviços",
-        cidade: "São Paulo",
-        dataCertificacao: "2024-02-15",
-        logo: "CE"
-    },
-    {
-        nome: "Supermercado Bom Preço",
-        setor: "Varejo",
-        cidade: "Porto Alegre",
-        dataCertificacao: "2024-03-01",
-        logo: "BP"
-    },
-    {
-        nome: "Café & Cia",
+        nome: "Café & Cia do Lago",
         setor: "Alimentação",
-        cidade: "Salvador",
-        dataCertificacao: "2024-02-10",
-        logo: "CC"
+        cidade: "Araçatuba",
+        dataCertificacao: "2025-09-18",
+        logoImg: "img-icon/3 - Café & Cia do Lago.png"
     },
     {
-        nome: "TechStart Inovação",
-        setor: "Tecnologia",
-        cidade: "Campinas",
-        dataCertificacao: "2024-03-12",
-        logo: "TS"
-    },
-    {
-        nome: "Centro Médico Vida Saudável",
-        setor: "Saúde",
-        cidade: "Recife",
-        dataCertificacao: "2024-01-30",
-        logo: "VS"
-    },
-    {
-        nome: "Academia Fit & Forma",
-        setor: "Serviços",
-        cidade: "Fortaleza",
-        dataCertificacao: "2024-02-22",
-        logo: "FF"
-    },
-    {
-        nome: "Livraria Conhecimento",
-        setor: "Varejo",
-        cidade: "Brasília",
-        dataCertificacao: "2024-03-08",
-        logo: "LC"
-    },
-    {
-        nome: "Hotel Maravilha",
+        nome: "Pousada Vale do Buriti",
         setor: "Turismo",
-        cidade: "Rio de Janeiro",
-        dataCertificacao: "2024-01-18",
-        logo: "HM"
+        cidade: "Buritama",
+        dataCertificacao: "2025-09-18",
+        logoImg: "img-icon/4 - Pousada Vale do Buriti.png"
     },
     {
-        nome: "Pizzaria Italiana",
+        nome: "Bar e Cozinha Dona Sinhá",
         setor: "Alimentação",
-        cidade: "São Paulo",
-        dataCertificacao: "2024-02-05",
-        logo: "PI"
+        cidade: "Penápolis",
+        dataCertificacao: "2025-09-18",
+        logoImg: "img-icon/5 - Bar e Cozinha Dona Sinhá.avif"
     },
     {
-        nome: "Instituto de Idiomas Global",
-        setor: "Educação",
-        cidade: "São Paulo",
-        dataCertificacao: "2024-02-25",
-        logo: "IG"
+        nome: "Estalagem Campo Verde",
+        setor: "Turismo",
+        cidade: "Guararapes",
+        dataCertificacao: "2025-09-18",
+        logoImg: "img-icon/6 - Estalagem Campo Verde.jpg"
     },
     {
-        nome: "Spa Relax Total",
-        setor: "Beleza",
-        cidade: "Florianópolis",
-        dataCertificacao: "2024-03-15",
-        logo: "RT"
+        nome: "Restaurante Tacho Caipira",
+        setor: "Alimentação",
+        cidade: "Birigui",
+        dataCertificacao: "2025-09-18",
+        logoImg: "img-icon/7 - Restaurante Tacho Caipira.jpg"
+    },
+    {
+        nome: "Rancho Morada do Sol",
+        setor: "Turismo",
+        cidade: "Araçatuba",
+        dataCertificacao: "2025-09-18",
+        logoImg: "img-icon/8 - Rancho Morada do Sol.jfif.jpg"
+    },
+    {
+        nome: "Taberna do Cedrinho",
+        setor: "Alimentação",
+        cidade: "Glicério",
+        dataCertificacao: "2025-09-18",
+        logoImg: "img-icon/9 - Taberna do Cedrinho.png"
+    },
+    {
+        nome: "Doce Encanto Panificadora & Café",
+        setor: "Alimentação",
+        cidade: "Birigui",
+        dataCertificacao: "2025-09-18",
+        logoImg: "img-icon/10 - Doce Encanto Panificadora & Café.png"
+    },
+    {
+        nome: "Eco Pousada Raízes da Mata",
+        setor: "Turismo",
+        cidade: "Coroados",
+        dataCertificacao: "2025-09-18",
+        logoImg: "img-icon/11 - Eco Pousada Raízes da Mata.png"
+    },
+    {
+        nome: "Bar da Praça Central",
+        setor: "Alimentação",
+        cidade: "Araçatuba",
+        dataCertificacao: "2025-09-18",
+        logoImg: "img-icon/12 - Bar da Praça Central.png"
+    },
+    {
+        nome: "Restaurante Sabor da Roça",
+        setor: "Alimentação",
+        cidade: "Piacatu",
+        dataCertificacao: "2025-09-18",
+        logoImg: "img-icon/13 - Restaurante Sabor da Roça.webp"
+    },
+    {
+        nome: "Hotel Jardim Imperial",
+        setor: "Turismo",
+        cidade: "Birigui",
+        dataCertificacao: "2025-09-18",
+        logoImg: "img-icon/14 - Hotel Jardim Imperial.jpg"
+    },
+    {
+        nome: "Rancho Ponte do Cedro",
+        setor: "Turismo",
+        cidade: "Buritama",
+        dataCertificacao: "2025-09-18",
+        logoImg: "img-icon/15 - Rancho Ponte do Cedro.webp"
+    },
+    {
+        nome: "Cantina Dom Ambrósio",
+        setor: "Alimentação",
+        cidade: "Penápolis",
+        dataCertificacao: "2025-09-18",
+        logoImg: "img-icon/16 - Cantina Dom Ambrósio.jpg"
+    },
+    {
+        nome: "Empório Sabores do Interior",
+        setor: "Varejo",
+        cidade: "Araçatuba",
+        dataCertificacao: "2025-09-18",
+        logoImg: "img-icon/17 - Empório Sabores do Interior.jpg"
+    },
+    {
+        nome: "Hostel Caminhos do Tietê",
+        setor: "Turismo",
+        cidade: "Buritama",
+        dataCertificacao: "2025-09-18",
+        logoImg: "img-icon/18 - Hostel Caminhos do Tietê.jpg"
     }
 ];
 
@@ -172,7 +172,9 @@ function renderizarEmpresas(empresasParaRenderizar) {
     grid.innerHTML = empresasParaRenderizar.map(empresa => `
         <div class="company-card">
             <div class="company-header">
-                <div class="company-logo">${empresa.logo}</div>
+                <div class="company-logo">
+                    <img src="${empresa.logoImg}" alt="Logo ${empresa.nome}" onerror="this.style.display='none'">
+                </div>
                 <div class="company-info">
                     <h3>${empresa.nome}</h3>
                     <div class="company-sector">${empresa.setor}</div>
@@ -328,3 +330,91 @@ document.addEventListener('DOMContentLoaded', () => {
         observer.observe(card);
     });
 });
+
+// Slideshow
+(function() {
+    const images = [
+        'images/brotas-1.jpg',
+        'images/Selo-Bem-Receber-3.jpeg',
+        'images/SebraeSP_Sacolas-1_p17120_thumb_resized.webp'
+    ];
+
+    const intervalMs = 5000; // tempo entre trocas
+    const preloadTimeoutMs = 6000; // máximo para aguardar carregamento das imagens
+
+    function createSlides(container, imagePaths) {
+        imagePaths.forEach((src, idx) => {
+            const slide = document.createElement('div');
+            slide.className = 'slide' + (idx === 0 ? ' active' : '');
+            slide.style.backgroundImage = `url('${src}')`;
+            slide.style.backgroundSize = 'cover';
+            slide.style.backgroundPosition = 'center';
+            container.appendChild(slide);
+        });
+    }
+
+    function preload(paths) {
+        const loaders = paths.map(src => new Promise(resolve => {
+            const img = new Image();
+            img.onload = () => resolve({ src, status: 'loaded' });
+            img.onerror = () => resolve({ src, status: 'error' });
+            img.src = src;
+        }));
+        return Promise.all(loaders);
+    }
+
+    function initHeroSlideshow(containerId, imagePaths, interval) {
+        const container = document.getElementById(containerId);
+        if (!container || !imagePaths.length) return;
+
+        // Cria slides imediatamente para iniciar o download das imagens
+        createSlides(container, imagePaths);
+
+        const slides = container.querySelectorAll('.slide');
+        let current = 0;
+        let intervalHandle = null;
+
+        // Aguarda preload (até um timeout) antes de iniciar as trocas
+        const preloadPromise = preload(imagePaths);
+        const timeoutPromise = new Promise(resolve => setTimeout(resolve, preloadTimeoutMs, 'timeout'));
+
+        Promise.race([preloadPromise, timeoutPromise]).then(() => {
+            // start slideshow loop
+            intervalHandle = setInterval(() => {
+                const next = (current + 1) % slides.length;
+
+                // Add active to next first to create crossfade
+                slides[next].classList.add('active');
+
+                // remove active from current after a short delay so both overlap (crossfade)
+                setTimeout(() => {
+                    slides[current].classList.remove('active');
+                    current = next;
+                }, 120); // 60ms é suficiente para evitar flicker; ajuste se necessário
+            }, interval);
+        }).catch(() => {
+            // fallback: iniciar mesmo em caso de erro
+            intervalHandle = setInterval(() => {
+                const next = (current + 1) % slides.length;
+                slides[next].classList.add('active');
+                setTimeout(() => {
+                    slides[current].classList.remove('active');
+                    current = next;
+                }, 60);
+            }, interval);
+        });
+
+        // opcional: expor uma forma de parar o slideshow se necessário
+        return {
+            stop() {
+                if (intervalHandle) clearInterval(intervalHandle);
+            }
+        };
+    }
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', () => initHeroSlideshow('heroSlideshow', images, intervalMs));
+    } else {
+        initHeroSlideshow('heroSlideshow', images, intervalMs);
+    }
+})();
